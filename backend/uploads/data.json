@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is your name?",
+    "answer": "I am your chatbot assistant."
+  },
+  {
+    "question": "How does this work?",
+    "answer": "You ask me questions, and I respond based on my knowledge."
+  },
+  {
+    "question": "What is zonetocode",
+    "answer": "I'm Prince, an MCA student based in Mumbai with a passion for web development and technology. Over the years, I've honed my skills in creating dynamic and responsive websites and have worked on various projects for clients. ZoneToCode is the embodiment of my dedication to sharing this knowledge and helping others excel in the field of IT."
+  },
+  {
+    "question": "About founder of zonetocode",
+    "answer": "I'm Prince, an MCA student based in Mumbai with a passion for web development and technology."
+  },
+  {
+    "question": "What zonetocode do?",
+    "answer": " Over the years, I've honed my skills in creating dynamic and responsive websites and have worked on various projects for clients."
+  }
+]
